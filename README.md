@@ -6,7 +6,7 @@
 ### **<div align="center">I'm Leaksy, your local lunatic and programmer. Working on code since i was 13🎉</div>**  
   
 
-- 🔭 I’m currently working on [EVERYTHING] (https://github.com/iLeaksy)  
+- 🔭 I’m currently working on [FiveM Scripting] (https://github.com/iLeaksy)  
   
 
 - 🌱 I’m currently learning networking.  
@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to FiveM development & LUA.  
   
 
-- ⚡ Fun fact: I drink more coffee than i work on code.  
+- ⚡ Fun fact: I don't know what im doiing 90% of the time, the code just works.  
   
 
 <br/>  
