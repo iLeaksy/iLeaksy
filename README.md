@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on small websites & FiveM scripts!<br>🌱 I’m currently learning C++/C#, it's really fun - yet hard.<br>💬 Ask me about anything, I will try and help you!<br>⚡ Fun fact, I tried programming once in java & I deleted sys32..
+🔭 I’m currently working on FiveM scripts!<br>🌱 I’m currently learning C++/C#, it's really fun - yet hard.<br>💬 Ask me about anything, I will try and help you!<br>⚡ Fun fact, half of the time i don't know what im doing, it just works....
 
 
 # 💻 Tech Stack:
