@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on FiveM scripts!<br>🌱 I’m currently learning C++/C#, it's really fun - yet hard.<br>💬 Ask me about anything, I will try and help you!<br>⚡ Fun fact, half of the time i don't know what im doing, it just works....
+
+# About Me ✨
+
+🔭 Currently, I'm immersed in developing Web Applications!<br>
+🌱 I'm diving deep into Web Development again. I try to publish an useful open-source Web App every Week!<br>
+💬 Feel free to ask me anything—I'm eager to lend a hand!<br>
+⚡ Fun fact: Half the time, I have no clue what I'm doing, but somehow it all falls into place...
 
 
 # 💻 Tech Stack:
