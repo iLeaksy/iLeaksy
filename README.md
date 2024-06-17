@@ -6,7 +6,7 @@
 💬 Feel free to ask me anything—I'm eager to lend a hand!<br>
 ⚡ Fun fact: Half the time, I have no clue what I'm doing, but somehow it all falls into place...
 
-<My Blog>[https://leaksy.hashnode.dev/]
+<[My Blog](https://leaksy.hashnode.dev/)>
 
 
 # 💻 Tech Stack:
