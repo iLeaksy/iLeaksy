@@ -1,8 +1,8 @@
 
 # About Me ✨
 
-🔭 Currently, I'm immersed in developing Web Applications!<br>
-🌱 I'm diving deep into Web Development again. I try to publish an useful open-source Web App every Week!<br>
+🔭 Currently, I'm immersed in developing FiveM Scripts & Web Applications!<br>
+🌱 I'm diving deep into FiveM Development again.
 💬 Feel free to ask me anything—I'm eager to lend a hand!<br>
 ⚡ Fun fact: Half the time, I have no clue what I'm doing, but somehow it all falls into place...
 
@@ -15,12 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=iLeaksy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iLeaksy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iLeaksy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iLeaksy&icon=1&color=0)](https://visitcount.itsvg.in)
